@@ -21,3 +21,5 @@ const snapCrackle = (maxValue) => {
     }
     return result
 }
+
+snapCrackle(numbers)
