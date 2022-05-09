@@ -19,7 +19,7 @@ const snapCrackle = (maxValue) => {
             result.push(maxValue[i])
         }
     }
-    return result
+    return result.join(' ')
 }
 
 snapCrackle(numbers)
